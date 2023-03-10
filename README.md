@@ -67,7 +67,7 @@ docker run -d --net=host -v /easynode-server:/easynode-server/server/app/storage
 > centos: `yum install curl wget git zip tar -y`
 
 ```shell
-wget -qO- --no-check-certificate https://ghproxy.com/https://raw.githubusercontent.com/chaos-zhu/easynode/v1.2/easynode-server-install.sh | bash
+wget -qO- --no-check-certificate https://raw.githubusercontent.com/f85386056/easynode/v1.2/easynode-server-install.sh | bash
 ```
 
 访问：http://yourip:8082
